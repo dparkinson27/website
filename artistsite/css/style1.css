@@ -1,0 +1,139 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+body {
+    background-color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'PT Mono', monospace;
+    font-size: 3vw;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: black;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    display: block;
+    color: black;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    padding: 5px;
+    width: 35%;
+    font-size: 2vw;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    font-family: 'PT Mono', monospace;
+}
+
+.top {
+    margin: auto;
+    margin-top: 5px;
+    padding: 5px;
+    width: 90%;
+}
+
+.mainLink a {
+    display: inline-block;
+    font-family: 'PT Mono', monospace;
+}
+
+.sidebar {
+    display: block;
+    margin: auto;
+    width: 20%;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+}
+
+.sidebar a {
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    font-family: 'PT Mono', monospace;
+    font-size: 2vw;
+}
+
+.main {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+.Imagelist {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.label {
+    text-align: center;
+    color: black;
+    font-family: 'PT Mono', monospace;
+    margin-bottom: 30px;
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 5px;
+}
+
+a:hover, a:active {
+    background-color: dimgrey;
+}
+
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+    font-style: italic;
+    font-family: 'Didact Gothic';
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*
+    Created on : May 28, 2018, 4:51:24 PM
+    Author     : Drew
+*/

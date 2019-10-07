@@ -1,0 +1,76 @@
+{
+    "artPiece": [
+        {
+            "source": "images/Photo/Chair.jpg",
+            "width": 530,
+            "height": 340,
+            "description": "Untitled, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/cartoon.jpg",
+            "width": 570,
+            "height": 360,
+            "description": "Cartoon, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/Computer.jpg",
+            "width": 540,
+            "height": 360,
+            "description": "Photo Booth, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/eyes.jpg",
+            "width": 360,
+            "height": 570,
+            "description": "Untitled, 10\" by 12\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/FinalTri.jpg",
+            "width": 680,
+            "height": 460,
+            "description": "Washing Machine, 24\" by 12\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/garage.jpg",
+            "width": 560,
+            "height": 360,
+            "description": "Regresion, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/Lamp.jpg",
+            "width": 570,
+            "height": 360,
+            "description": "Centerpiece, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/Lightmask.jpg",
+            "width": 360,
+            "height": 560,
+            "description": "Light Masks, 10\" by 12\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/mirrorgrass.jpg",
+            "width": 560,
+            "height": 360,
+            "description": "Mirror, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/southwickfinal.jpg",
+            "width": 350,
+            "height": 550,
+            "description": "Doubletake, 10\" by 12\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/speak.jpg",
+            "width": 540,
+            "height": 350,
+            "description": "Monkeys, 12\" by 10\", Black and White Print"
+        },
+        {
+            "source": "images/Photo/circleye.jpg",
+            "width": 560,
+            "height": 360,
+            "description": "Untitled, 12\" by 10\", Black and White Print"
+        }
+    ]
+}

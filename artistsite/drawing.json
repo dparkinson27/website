@@ -1,0 +1,64 @@
+{
+    "artPiece": [
+        {
+            "source": "images/Drawing/work.jpg",
+            "width": 500,
+            "height": 680,
+            "description": "This Would Work, 38\" by 50\", Graphite and Ink on Paper"
+        },
+        {
+            "source": "images/Drawing/landscape.jpg",
+            "width": 660,
+            "height": 460,
+            "description": "Invasion, 36\" by 24\", Graphite and Ink on Paper"
+        },
+        {
+            "source": "images/Drawing/water.jpg",
+            "width": 720,
+            "height": 540,
+            "description": "Spill, 36\" by 24\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/gallery.jpg",
+            "width": 720,
+            "height": 550,
+            "description": "Gallery, 36\" by 24\", Graphite and Ink on Paper"
+        },
+        {
+            "source": "images/Drawing/beansie.jpg",
+            "width": 360,
+            "height": 620,
+            "description": "Beansie, 4\" by 6\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/closet.jpg",
+            "width": 360,
+            "height": 620,
+            "description": "Closet, 4\" by 6\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/coffee.jpg",
+            "width": 620,
+            "height": 380,
+            "description": "Black Coffee, 4\" by 6\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/light.jpg",
+            "width": 360,
+            "height": 620,
+            "description": "Lamp, 4\" by 6\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/pants.jpg",
+            "width": 360,
+            "height": 620,
+            "description": "Fabrics, 4\" by 6\", Graphite on Paper"
+        },
+        {
+            "source": "images/Drawing/computer.jpg",
+            "width": 520,
+            "height": 540,
+            "description": "Computer, 50\" by 50\", Pencil on Paper"
+        }
+    ]
+}

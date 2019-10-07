@@ -1,0 +1,52 @@
+{
+    "artPiece": [
+        {
+            "source": "images/Painting/EatingMyFoot.jpg",
+            "width": 760,
+            "height": 520,
+            "description": "Eating My Foot, 52\" by 44\", Acrylic on Canvas"
+        },
+        {
+            "source": "images/Painting/CuttingAGraveyardWithAKnife.jpg",
+            "width": 720,
+            "height": 500,
+            "description": "Attacking a Graveyard with a Knife, 52\" by 44\", Acrylic on Canvas"
+        },
+        {
+            "source": "images/Painting/MessingWithPetesDreams.jpg",
+            "width": 680,
+            "height": 500,
+            "description": "Messing with Pete's Dreams, 22\" by 26\", Acrylic on Canvas"
+        },
+        {
+            "source": "images/Painting/toilet.jpg",
+            "width": 560,
+            "height": 720,
+            "description": "Down the Drain, 18\" by 22\", Acrylic on Canvas"
+        },
+        {
+            "source": "images/Painting/final1.jpg",
+            "width": 700,
+            "height": 520,
+            "description": "Untitled, 30\" by 22\", Acrylic on Canvas"
+        },
+        {
+            "source": "images/Painting/final2.jpg",
+            "width": 480,
+            "height": 680,
+            "description": "Colored, 30\" by 36\", Graphite and Ink on Paper"
+        },
+        {
+            "source": "images/Painting/news.jpg",
+            "width": 480,
+            "height": 600,
+            "description": "News, 18\" by 22\", Graphite and Ink on Paper"
+        },
+        {
+            "source": "images/Painting/cuts.jpg",
+            "width": 480,
+            "height": 600,
+            "description": "Cuts, 18\" by 22\", Acrylic on Canvas"
+        }
+    ]
+}
